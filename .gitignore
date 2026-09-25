@@ -1,0 +1,23 @@
+# Data & large files
+dataset/
+*.tsv
+*.csv
+*.parquet
+*.zip
+*.tar.gz
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
